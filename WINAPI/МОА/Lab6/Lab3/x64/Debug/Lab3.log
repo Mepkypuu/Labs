@@ -1,0 +1,107 @@
+﻿  Source.cpp
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(8,1): warning C4005: WS_OVERLAPPEDWINDOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2826): message : см. предыдущее определение "WS_OVERLAPPEDWINDOW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(9,1): warning C4005: WS_POPUPWINDOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2830): message : см. предыдущее определение "WS_POPUPWINDOW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(82,5): error C2664: "HWND FindWindowW(LPCWSTR,LPCWSTR)": невозможно преобразовать аргумент 1 из "char [10]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(82,25): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(10049,1): message : см. объявление "FindWindowW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(103,30): error C2440: =: невозможно преобразовать "char [10]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(103,21): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(117,1): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "char [10]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(117,1): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(132,66): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [14]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(132,20): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(156,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(168,10): error C2664: "INT_PTR DialogBoxParamW(HINSTANCE,LPCWSTR,HWND,DLGPROC,LPARAM)": невозможно преобразовать аргумент 4 из "BOOL (__cdecl *)(HWND,UINT,WPARAM,LPARAM)" в "DLGPROC"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(168,11): message : Конечному типу не соответствует ни одной функции с данным именем в области видимости
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5068,1): message : см. объявление "DialogBoxParamW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(231,68): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [15]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(231,42): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(232,68): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [15]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(232,42): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(233,58): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [9]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(233,42): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(234,58): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [9]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(234,42): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(235,81): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [19]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(235,46): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(236,62): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const char [11]" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(236,46): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(238,65): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(238,63): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(239,65): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(239,63): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(240,65): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(240,63): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(241,65): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(241,63): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(242,70): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(242,68): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(243,80): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(243,78): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(244,80): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(244,78): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(245,80): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "const _Elem *" в "LPCWSTR"
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(245,78): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(266,28): error C2440: =: невозможно преобразовать "UINT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)" в "LPCCHOOKPROC"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(266,18): message : Для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(270,93): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "LPCSTR" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(270,44): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(271,93): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "LPCSTR" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(271,44): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(272,93): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "LPCSTR" в "LPCWSTR"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(272,44): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(5166,1): message : см. объявление "SetDlgItemTextW"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(310,52): warning C4311: приведение типов: усечение указателя из "HBRUSH" в "UINT"
+C:\Users\victo\Desktop\Lab6\Lab3\Source.cpp(310,52): warning C4302: приведение типов: усечение из "HBRUSH" к "UINT"

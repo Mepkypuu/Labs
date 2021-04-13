@@ -1,0 +1,133 @@
+﻿  Source.cpp
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(62,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(62,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(68,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(68,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(74,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(74,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(80,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(80,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(86,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(86,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(92,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(92,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(98,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(98,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(104,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(104,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(110,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(110,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(116,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(116,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(123,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(123,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(130,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(130,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(136,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(136,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(145,35): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "const char [1]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(145,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(154,35): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "const char [1]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(154,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(163,35): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "const char [1]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(163,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(172,35): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "const char [1]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(172,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(180,87): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [16]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(180,34): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(209,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(209,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(219,45): error C2664: "BOOL SetWindowTextW(HWND,LPCWSTR)": невозможно преобразовать аргумент 2 из "char *" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(219,33): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(8902,1): message : см. объявление "SetWindowTextW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(258,37): error C2440: =: невозможно преобразовать "const char [12]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(258,24): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(263,93): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [28]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(263,26): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(266,12): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [12]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(266,45): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(273,12): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [5]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(273,45): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(283,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(283,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(284,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(284,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(285,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(285,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(286,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(286,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(287,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(287,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(288,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(288,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(289,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(289,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(290,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(290,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(291,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(291,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(292,19): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(292,19): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(293,19): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(293,19): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(294,20): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(294,20): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(295,23): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(295,23): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(296,22): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(296,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(297,22): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(297,22): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(298,20): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(298,20): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(299,16): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(299,16): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(300,18): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(300,18): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(301,17): error C2664: "HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)": невозможно преобразовать аргумент 2 из "const char [7]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(301,17): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(4436,1): message : см. объявление "CreateWindowExW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(305,89): error C2664: "int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)": невозможно преобразовать аргумент 2 из "const char [24]" в "LPCWSTR"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(305,26): message : Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(9153,1): message : см. объявление "MessageBoxW"
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(314,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных

@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\victo\Desktop\Lab7\Lab3\Source.cpp(5,1): warning C4005: WS_OVERLAPPEDWINDOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2826): message : см. предыдущее определение "WS_OVERLAPPEDWINDOW"
+C:\Users\victo\Desktop\Lab7\Lab3\Source.cpp(6,1): warning C4005: WS_POPUPWINDOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2830): message : см. предыдущее определение "WS_POPUPWINDOW"
+C:\Users\victo\Desktop\Lab7\Lab3\Source.cpp(185,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\victo\Desktop\Lab7\x64\Debug\Lab7.exe
