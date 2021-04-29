@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(142,31): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(151,31): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(160,31): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Source.cpp(169,31): warning C4018: <=: несоответствие типов со знаком и без знака
+  Project1.vcxproj -> C:\Users\victo\source\repos\РГР 17МОА Нагибин\Calculator\Debug\Project1.exe

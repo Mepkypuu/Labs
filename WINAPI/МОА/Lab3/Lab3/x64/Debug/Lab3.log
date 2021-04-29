@@ -1,0 +1,31 @@
+﻿  Source.cpp
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(4,1): warning C4005: WS_OVERLAPPEDWINDOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2826): message : см. предыдущее определение "WS_OVERLAPPEDWINDOW"
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(5,1): warning C4005: WS_POPUPWINDOW: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.h(2830): message : см. предыдущее определение "WS_POPUPWINDOW"
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(254,12): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(279,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(280,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(295,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(296,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(307,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(308,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(319,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(320,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(376,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(377,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(392,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(393,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(404,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(405,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(416,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(417,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(464,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(465,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(480,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(481,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(492,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(493,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(504,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\victo\Desktop\Lab3\Lab3\Source.cpp(505,38): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Lab3.vcxproj -> C:\Users\victo\Desktop\Lab3\x64\Debug\Lab3.exe
